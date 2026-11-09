@@ -1,0 +1,6 @@
+{
+  "name": "LiveGood - Conoce el Modelo",
+  "description": "Landing page de alta conversión para LiveGood: salud prémium, ahorro de hasta el 75% y el modelo de membresía disruptivo que está transformando la industria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
